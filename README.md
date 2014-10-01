@@ -1,4 +1,4 @@
-cryto-cli
+crypto-cli
 =======================
 
 Simple command-line interface for the [crypto module](http://nodejs.org/docs/latest/api/crypto.html) with limited functionality.
