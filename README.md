@@ -4,13 +4,13 @@ cryto-cli
 Simple command-line interface for the [crypto module](http://nodejs.org/docs/latest/api/crypto.html) with limited functionality.
 
 # Installation
-```
+```bash
 # Get the latest snapshot
 git clone https://github.com/jordanpatton/crypto-cli.git crypto-cli
 ```
 
 # Usage
-```
+```bash
 # Open your local copy
 cd crypto-cli
 
